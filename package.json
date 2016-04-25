@@ -1,0 +1,24 @@
+{
+  "name": "linenetautorun",
+  "version": "1.0.0",
+  "description": "LineNET Website Auto Run APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeemanliao/lineNETAutoRun.git"
+  },
+  "author": "Zeeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeemanliao/lineNETAutoRun/issues"
+  },
+  "homepage": "https://github.com/zeemanliao/lineNETAutoRun#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "mongoose": "^4.4.13",
+    "request": "^2.72.0"
+  }
+}
