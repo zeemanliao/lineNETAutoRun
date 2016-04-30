@@ -1,7 +1,7 @@
 {
 	"epa":{
 		"url":"http://taqm.epa.gov.tw/taqm/tw/Pm25Index.aspx",
-		"site":"view-source:http://taqm.epa.gov.tw/taqm/tw/SiteListInMap.aspx",
+		"site":"http://taqm.epa.gov.tw/taqm/tw/SiteListInMap.aspx",
 		"reload":600
 	}
 }
